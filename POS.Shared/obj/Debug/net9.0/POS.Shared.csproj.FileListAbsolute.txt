@@ -1,0 +1,12 @@
+C:\backup\UPDS\desarrollodesistemas2\POS\POS.Shared\bin\Debug\net9.0\POS.Shared.deps.json
+C:\backup\UPDS\desarrollodesistemas2\POS\POS.Shared\bin\Debug\net9.0\POS.Shared.dll
+C:\backup\UPDS\desarrollodesistemas2\POS\POS.Shared\bin\Debug\net9.0\POS.Shared.pdb
+C:\backup\UPDS\desarrollodesistemas2\POS\POS.Shared\obj\Debug\net9.0\POS.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\backup\UPDS\desarrollodesistemas2\POS\POS.Shared\obj\Debug\net9.0\POS.Shared.AssemblyInfoInputs.cache
+C:\backup\UPDS\desarrollodesistemas2\POS\POS.Shared\obj\Debug\net9.0\POS.Shared.AssemblyInfo.cs
+C:\backup\UPDS\desarrollodesistemas2\POS\POS.Shared\obj\Debug\net9.0\POS.Shared.csproj.CoreCompileInputs.cache
+C:\backup\UPDS\desarrollodesistemas2\POS\POS.Shared\obj\Debug\net9.0\POS.Shared.dll
+C:\backup\UPDS\desarrollodesistemas2\POS\POS.Shared\obj\Debug\net9.0\refint\POS.Shared.dll
+C:\backup\UPDS\desarrollodesistemas2\POS\POS.Shared\obj\Debug\net9.0\POS.Shared.pdb
+C:\backup\UPDS\desarrollodesistemas2\POS\POS.Shared\obj\Debug\net9.0\ref\POS.Shared.dll
+C:\backup\UPDS\desarrollodesistemas2\POS\POS.Shared\obj\Debug\net9.0\POS.Shared.csproj.Up2Date

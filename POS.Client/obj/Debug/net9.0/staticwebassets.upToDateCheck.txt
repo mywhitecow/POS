@@ -1,0 +1,8 @@
+wwwroot\css\app.css
+wwwroot\favicon.png
+wwwroot\icon-192.png
+wwwroot\index.html
+wwwroot\sample-data\weather.json
+C:\backup\UPDS\desarrollodesistemas2\POS\POS.Client\wwwroot\css\app.css
+C:\backup\UPDS\desarrollodesistemas2\POS\POS.Client\wwwroot\index.html
+C:\backup\UPDS\desarrollodesistemas2\POS\POS.Client\wwwroot\sample-data\weather.json
